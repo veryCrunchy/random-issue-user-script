@@ -16,3 +16,4 @@ To make use of this UserScript, follow these simple steps:
 
 ## Contribution and Issues
 Feel free to contribute to this UserScript or report any issues you encounter!
+ 
